@@ -1,3 +1,5 @@
+https://patricew2.github.io/web-design-challenge/
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
